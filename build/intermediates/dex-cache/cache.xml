@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-43d77e8349a45d3b75d9a73f63992d6604c4c6c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-ca6a4902f0e6dbf9e163de58bd4b11f2337ebd4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-82c905ccc3024972b907c719a24400189560ed5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-87a9d8717b5c5dee8fd2016870ab8fa289fa22db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-ea11ed4d101631c0e0de226c75a6f05e72062a5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-50d4520bbdcdbe4976b0d2d8d809f1842494c437.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-848e7425cb64df392ed93084ab446dc08adaaff8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-6e9be2b23f4a2be3c3f5d0536f2d2c07e15ea855.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-341559da791981b323db5890fb009f36124ec28a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-f4625c95cacf7be686fd522147a2c617ea575c36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-120693a8b42e1ee8074f4c6e6b31bcd9f305392a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-5d3013f7bc9083f65bae66dd2c7333b65bc70956.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-a90f17dd0d97305ad1ba0cf02eeccd2898a1e41f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-c2b41abe8f7f41e538182a44d20c5e7ee5143016.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-5c261b1423769892363dcbd6ff2310432d290321.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-badb2b2b4ca4d94ee71ba692096055971e8360c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-ca1b437d76dff575b9a9d9cf0f961a4d979ec550.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-c9f2b5f5f3a5566841c6e731d85884f67dcb3db7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-e2508637a7c3206c559d4f50f4dc9dfec7566d79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-309edf4d1f783e3776d38abbc28d8b34d21cee1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-9acf236fb1d68c1ad4d4720f63a78174492a66ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-3378c3b4ea4aacb2e4d326542d5f6c2d3474d109.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-b78dbdc57c197a7129de23a7ec85290570f22c5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-b283599c3b0d2d920de1beadbcf2f48d0c2b9449.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-e7e6925ccbecb21b84978fbe8ab3d23cec252a8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-ae19fd437c44c973427ddc6fac5ed5f56ef5e383.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Roger\Documents\Projects\Android Apps\ParkFinder\app\build\intermediates\pre-dexed\debug\classes-c6a619ad4f7299ab2ae21672eacfa3a612634bbf.jar" />
+    </item>
+
+</items>
